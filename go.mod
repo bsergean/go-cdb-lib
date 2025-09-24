@@ -1,4 +1,4 @@
-module github.com/colinmarc/cdb
+module github.com/bsergean/cdb
 
 require (
 	github.com/Pallinder/go-randomdata v1.1.0
